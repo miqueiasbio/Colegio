@@ -1,0 +1,29 @@
+data,municipio,supermercado,bairro,categoria,produto,marca,unidade,quantidade,preco,promocao
+2025-01-01,Irecê,Super Bom Centro,Centro,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,31.9,0
+2025-01-01,Irece,Mercado Popular,Centro,feijão,Feijão Carioca 1kg,Marca C,kg,1,8.2,0
+2025-01-02,Irece,Super Bom Centro,Centro,arroz,Arroz Tipo 1 5KG,Marca A,kg,5,32.4,0
+2025-01-02,Irece,Atacarejo Bahia,Boa Vista,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.4,0
+2025-01-03,Irece,Mercado Popular,Centro,arroz,arroz tipo 1 5kg,Marca B,kg,5,30.8,1
+2025-01-03,Irece,Super Bom Centro,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.5,0
+2025-01-04,Irece,Atacarejo Bahia,Boa Vista,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,31.5,0
+2025-01-04,Irece,Mercado Popular,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.1,1
+2025-01-05,Irece,Super Bom Centro,Centro,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,33.0,0
+2025-01-05,Irece,Atacarejo Bahia,Boa Vista,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.9,0
+2025-01-06,Irece,Mercado Popular,Centro,arroz,Arroz Tipo 1 5kg,Marca B,kg,5,29.9,1
+2025-01-06,Irece,Super Bom Centro,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,9.0,0
+2025-01-07,Irece,Atacarejo Bahia,Boa Vista,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,31.2,0
+2025-01-07,Irece,Mercado Popular,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.7,0
+2025-01-08,Irece,Super Bom Centro,Centro,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,33.1,0
+2025-01-08,Irece,Atacarejo Bahia,Boa Vista,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.8,1
+2025-01-09,Irece,Mercado Popular,Centro,arroz,Arroz Tipo 1 5kg,Marca B,kg,5,30.2,1
+2025-01-09,Irece,Super Bom Centro,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.6,0
+2025-01-10,Irece,Atacarejo Bahia,Boa Vista,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,31.7,0
+2025-01-10,Irece,Mercado Popular,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.3,0
+2025-01-11,Irece,Super Bom Centro,Centro,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,33.4,0
+2025-01-11,Irece,Atacarejo Bahia,Boa Vista,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.9,0
+2025-01-12,Irece,Mercado Popular,Centro,arroz,Arroz Tipo 1 5kg,Marca B,kg,5,30.4,1
+2025-01-12,Irece,Super Bom Centro,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.7,0
+2025-01-13,Irece,Atacarejo Bahia,Boa Vista,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,45.0,0
+2025-01-13,Irece,Mercado Popular,Centro,feijao,Feijao Carioca 1kg,Marca C,kg,1,8.2,0
+2025-01-14,Irece,Super Bom Centro,Centro,arroz,Arroz Tipo 1 5kg,Marca A,kg,5,33.3,0
+2025-01-14,Irece,Atacarejo Bahia,Boa Vista,feijao,Feijao Carioca 1kg,Marca C,kg,1,12.9,0
