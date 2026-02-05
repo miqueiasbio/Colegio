@@ -1,0 +1,29 @@
+{
+  "data_path": "data/precos_exemplo.csv",
+  "municipio": "Irece",
+  "target_col": "preco_normalizado",
+  "date_col": "data",
+  "window_size": 3,
+  "forecast_horizon": 7,
+  "test_days": 2,
+  "val_days": 2,
+  "batch_size": 8,
+  "epochs": 20,
+  "learning_rate": 0.001,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.1,
+  "autoencoder_hidden": 16,
+  "anomaly_percentile": 95,
+  "report_products": [
+    "arroz tipo 1 5kg",
+    "feijao carioca 1kg"
+  ],
+  "selected_basket": [
+    "arroz tipo 1 5kg",
+    "feijao carioca 1kg"
+  ],
+  "random_seed": 42,
+  "model_dir": "models",
+  "report_dir": "reports"
+}
